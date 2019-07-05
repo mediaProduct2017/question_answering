@@ -31,6 +31,8 @@ algorithm: BIDAF 完整模型
 
 [squad_mlstm](https://github.com/arfu2016/DuReader/tree/master/squad_mlstm)
 
+/Users/arfu/Documents/Python_projects/PycharmProjects/DuReader
+
 epochs: 2  
 batch size: 128  
 No pretrained word embeddings  
