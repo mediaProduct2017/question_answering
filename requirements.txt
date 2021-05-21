@@ -1,4 +1,4 @@
-tensorflow==1.0
+tensorflow==2.5.0
 jieba
 numpy
 # python=3.6
